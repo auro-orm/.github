@@ -1,7 +1,3 @@
-<div align="center">
-  <h1>Auro ORM Engine</h1>
-</div>
-
 ## 👋 Welcome
 
 Welcome to Auro ORM Engine, the ORM that makes working with databases easy! Here's what we offer:
