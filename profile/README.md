@@ -1,6 +1,5 @@
 <div align="center">
   <h1>Auro ORM Engine</h1>
-  <hr />
 </div>
 
 ## 👋 Welcome
